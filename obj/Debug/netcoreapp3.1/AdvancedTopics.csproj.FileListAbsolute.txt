@@ -1,0 +1,13 @@
+D:\Roopa\AdvancedTopics\bin\Debug\netcoreapp3.1\AdvancedTopics.exe
+D:\Roopa\AdvancedTopics\bin\Debug\netcoreapp3.1\AdvancedTopics.deps.json
+D:\Roopa\AdvancedTopics\bin\Debug\netcoreapp3.1\AdvancedTopics.runtimeconfig.json
+D:\Roopa\AdvancedTopics\bin\Debug\netcoreapp3.1\AdvancedTopics.runtimeconfig.dev.json
+D:\Roopa\AdvancedTopics\bin\Debug\netcoreapp3.1\AdvancedTopics.dll
+D:\Roopa\AdvancedTopics\bin\Debug\netcoreapp3.1\AdvancedTopics.pdb
+D:\Roopa\AdvancedTopics\obj\Debug\netcoreapp3.1\AdvancedTopics.csprojAssemblyReference.cache
+D:\Roopa\AdvancedTopics\obj\Debug\netcoreapp3.1\AdvancedTopics.AssemblyInfoInputs.cache
+D:\Roopa\AdvancedTopics\obj\Debug\netcoreapp3.1\AdvancedTopics.AssemblyInfo.cs
+D:\Roopa\AdvancedTopics\obj\Debug\netcoreapp3.1\AdvancedTopics.csproj.CoreCompileInputs.cache
+D:\Roopa\AdvancedTopics\obj\Debug\netcoreapp3.1\AdvancedTopics.dll
+D:\Roopa\AdvancedTopics\obj\Debug\netcoreapp3.1\AdvancedTopics.pdb
+D:\Roopa\AdvancedTopics\obj\Debug\netcoreapp3.1\AdvancedTopics.genruntimeconfig.cache
